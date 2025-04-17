@@ -17,7 +17,7 @@
     "adminPassword": {
       "type": "securestring",
       "metadata": {
-        "description": "P@ssw0rd12345"
+        "description": "k!ll0nS!ght"
       }
     }
   },
